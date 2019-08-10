@@ -8,7 +8,7 @@ sys.setdefaultencoding('utf-8')
 
 data_result = []
 path_photo = '/home/artem/tmpjpg/'
-TOKEN = '07de2b623eed2486f93ab755b3a8327f767a758f4012052793bc517195aeec40c8906339a726a06c0c8f9'
+TOKEN = ''
 APIV = '5.101'
 PUB_ID = 182371107
 
